@@ -1,0 +1,65 @@
+body {
+    align-items: center;
+
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: #bbbbbb;
+
+}
+
+
+.opshns {
+    text-align: left;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+
+.container {
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+    background: white;
+
+}
+
+
+label
+{
+    padding: 10px;
+}
+
+
+
+.output {
+    padding: 10px;
+width: 300px;
+height: 40px;
+    font-size: 20px;
+      font-weight: bold;
+    background: #d8d8d8;
+    margin-top: 10px;
+}
+
+
+
+
+button {
+margin-bottom: 20px;
+    border: none;
+    padding: 10px;
+ margin-top: 10px;
+ cursor: pointer;
+    background-color: #007bff;
+     color: white;
+    border-radius: 5px;
+}
+
+
+
+
+
+button:hover {
+    background-color: #0155b0;
+}
